@@ -12,6 +12,7 @@ Describing the problem, what sexing options there are without PCR
 * Lab Equipment
   * Reagents, Primers etc (full list in step 2)
 
+![A gel image](Tobin Lab 2023-04-07 13h50m47s(SYBR® Safe).jpg)
 
 ## Steps
 
@@ -24,3 +25,4 @@ Describing the problem, what sexing options there are without PCR
 5. Day 9
     1. Take healthy, developing eggs to fume hood
     2. Scratch hole with tweezers
+ 
