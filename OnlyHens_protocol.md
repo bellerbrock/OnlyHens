@@ -12,7 +12,7 @@ Describing the problem, what sexing options there are without PCR
 * Lab Equipment
   * Reagents, Primers etc (full list in step 2)
 
-![A gel image](Tobin Lab 2023-04-07 13h50m47s(SYBR® Safe).jpg)
+![A gel image](primer_test.jpg)
 
 ## Steps
 
