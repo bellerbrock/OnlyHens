@@ -25,4 +25,11 @@ Describing the problem, what sexing options there are without PCR
 5. Day 9
     1. Take healthy, developing eggs to fume hood
     2. Scratch hole with tweezers
+  
+
+Primer Sequences
+W_rpt F 5'-CCCAAATATAACACGCTTCACT-3'
+W_rpt R 5'-GAAATGAATTATTTTCTGGCGAC-3'
+18S F 5'-AGCTCTTTCTCGATTCCGTG-3'
+18S R 5'-GGGTAGACACAAGCTGAGCC-3'
  
